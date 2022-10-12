@@ -1,0 +1,40 @@
+{
+    
+        "titre-login":"Authentication",
+        "input-user":"User name",
+        "input-pwd":"Password",
+        "required-user-message":"The user name is required",
+        "required-pwd-message":"The password is required",
+        "required-url-message":"Url is required",
+        "invalid-auth-message":"invalid authentification parameters",
+        "missing-user-message":"User don't exist in the local database",
+
+        "page-login":"Login Page",
+        "page-parameters":"Choice of parameters",
+        "page-dashboard": "Dashboard",
+
+        "period-12":"Last 12 months",
+        "period-6":"Last 6 months",
+        "period-3":"Last 3 months",
+        "period-1":"Last months",
+        "period-relatif":"Month",
+
+        "selected-ou":" is selected",
+        "missing-indicator-message":"No indicator mapped for this group",
+        "missing-ou-message":"Select Organisation unit",
+        "lib-period":"Select relative period",
+        "lib-group":"Select indicator group",
+        "lib-orgunit":"Select Organisation unit",
+
+        "menu-dashboard": "Dashboard",
+        "menu-admin": "Administration",
+        "titre-dashboard":"Selection of parameters",
+        "submit-button":"Submit",
+        "tab-chart1":"Chart1",
+        "tab-chart2":"Chart2",
+        "tab-chart3":"Chart3",
+        "no-data":"No data found",
+        "share-button":"Share"
+
+    
+}

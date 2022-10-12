@@ -1,0 +1,38 @@
+{
+  "titre-login": "Authentification",
+  "input-user": "Nom de l'utilisateur",
+  "input-pwd": "Mot de passe",
+  "required-user-message": "Le nom utilisateur est obligatoire",
+  "required-pwd-message": "Le mot de passe est obligatoire",
+  "required-url-message": "L' Url est obligatoire",
+  "invalid-auth-message": "Paramètre d'authentification invalide",
+  "missing-user-message": "L'utilisateur n'existe pas dans la base de données locale",
+
+  "page-login": "Connexion",
+  "page-parameters": "Choix des paramètres",
+  "page-dashboard": "Tableau de bord",
+
+  "period-12": "12 derniers mois",
+  "period-6": "6 derniers mois",
+  "period-3": "3 derniers mois",
+  "period-1": "Le mois dernier",
+  "period-relatif": "Mois",
+
+  "selected-ou": " est selectionné",
+  "missing-indicator-message": "Aucun indicateur lié à ce group",
+  "missing-ou-message": "Selectionner une unité d'organisation",
+  "lib-period": "Période",
+  "lib-orgunit": "Unités d'organisation",
+  "lib-group": "Selectionner le groupe d'indicateur",
+
+  "menu-dashboard": "Tableau de bord",
+  "menu-admin": "Administration",
+  "titre-dashboard": "Choix des paramètres",
+
+  "submit-button": "Soumettre",
+  "tab-chart1": "Graph1",
+  "tab-chart2": "Graph2",
+  "tab-chart3": "Graph3",
+  "no-data": "Aucune donnée trouvé",
+  "share-button": "Partage"
+}
