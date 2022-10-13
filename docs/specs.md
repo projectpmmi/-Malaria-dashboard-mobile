@@ -71,34 +71,17 @@ Les tableaux de bord mobiles doivent contenir des informations à jour pour les 
  |
 | 1.7 Couverture du traitement préventif intermittent du paludisme pendant la grossesse (TPIp)
  | 2.7 : Nombre de personnes (15+) ayant subi un test de fièvre (TDR) ou microscopie) | 3.7 : Nombre de cas présumés de paludisme a cas | 4.7 : Nombre de cas graves référés | 5.7 Nombre d'établissements disposant d'un inventaire de MII disponibles |
- |
 |
- |
  | 3.8 : Nombre d'enfants (\<5) atteints de paludisme grave | 4.8 : Nombre de cas testés négatifs avec un TDR recevant des ACT | 5.8 Nombre d'établissements disposant d'un inventaire disponible de ACT |
- |
 |
- |
  | 3.9 : Nombre d'enfants (5-14) atteints de paludisme grave | 4.9 : Nombre de cas confirmés de paludisme guéris après un traitement par ACT |
- |
- |
 |
- |
  | 3.10 : Nombre de personnes (15+) atteintes de paludisme grave | 4.10 : Nombre de cas de paludisme grave traités et guéris |
  |
- |
 |
- |
  | 3.11 : Nombre des cas de paludisme grave référés |
- |
- |
- |
 |
- |
- |
- |
- |
- |
- |
+ 
 
 # **DOCUMENT DE SPÉCIFICATIONS TECHNIQUES**
 
@@ -158,170 +141,6 @@ Au cours des phases 1, l'application mobile DHIS2 sera développée à l'aide du
 
 Aux phases 2 et 3, l'Android L'application sera développée en utilisant le langage de programmation JavaScript.
 
-## mise
-
-| Fonctionnalité | Description |
-Temps de développement | Responsable |
-| --- | --- | --- | --- |
-| Janvier | Février |
- |
-| Semaines | Semaines |
- |
-| 1 | 2 | 3 | 4 | 1 | 2 | 3 |
- |
-| Application mobile DHIS2 Développement frontend | Affichage ajustable des graphiques en fonction de la taille de l'écran - conception réactive, mise en page spéciale | x | x |
- |
- |
- |
- |
- |
- |
-| Développement backend de l'application mobile DHIS2 | Sélection de indicateurs à utiliser pour l'interface de génération de graphiques Interface
-de paramétrage des graphiques |
- | x |
- |
- |
- |
- |
- |
- |
-| Module de génération de tableaux de bord PDF |
- |
- | x |
- |
- |
- |
- |
- |
- |
-| graphiques |
- |
- | x | x | x |
- |
- |
- |
- |
-| comparer les résultats avec des cibles prédéfinies |
- |
- |
- |
- |
- |
- |
- |
- |
-| comparaisons d'orgunits |
- |
- |
- |
- |
- |
- |
- |
- |
-| Graphique permettant des comparaisons d'Orgunits dans le temps |
- |
- |
- |
- |
- |
- |
- |
- |
-| 2-3 indicateurs de vue dans le temps graphique |
- |
- |
- |
- |
- |
- |
- |
- |
-| Intégration de graphiques de cartes |
- |
- |
- |
- |
- |
- |
- |
- |
-| niveau |
- |
- |
- |
- |
- |
- |
- |
- |
-| conversion dynamique graphique/tableau/carte |
- |
- |
- |
- |
- |
- |
- |
- |
-| Afficher les coordonnées GPS (par ex. répartition des centres de santé ou des ASC engagés dans des activités de lutte contre le paludisme)
- |
- |
- |
- |
- |
- |
- |
- |
- |
-| caractéristiques sociales - partage et commentaires |
- |
- |
- |
- |
- |
- |
- |
- |
-| DHIS2 basée | Test |
- |
- | sur | application |
- |
- |
- |
- |
-| le | Web le tableau de bord basé sur le Web |
- |
- |
- | x |
- |
- |
- |
- |
-| Test de l'application Android v1 |
- |
- |
- |
- | x | x |
- |
- |
- |
-| Application Android v2 | Génération de graphiques dynamiques basée sur les métadonnées et les données sur l'appareil mobile |
- |
- |
- |
- | x |
- | x |
- |
-| Test de l'application Android v1 |
- |
- |
- |
- |
- |
- |
- | x |
- |
 
 * * *
 
