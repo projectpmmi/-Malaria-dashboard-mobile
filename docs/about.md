@@ -16,7 +16,7 @@ Le développement de l'application MRDQA DHIS2 et Mobile est dirigé par une éq
 ## L'équipe de développement logiciel est composée de :
 
 
-* **Romain-Rolland Tohouri**
 * **Abel N'zi**
+* **Romain-Rolland Tohouri**
 * **Moussa Ly**
 * **David Boone**
