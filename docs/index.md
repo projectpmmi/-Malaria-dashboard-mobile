@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Home | [About](./about.md) | [specifications](./specs.md) | [guide](./userguide.md)
+Accueil | [Apropos](./about.md) | [Specifications](./specs.md) | [Guides](./userguide.md)
 
 
 
@@ -16,6 +16,8 @@ Cette version de l'application Malaria Dashboard est installable comme module ad
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zqi4HxoEVvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
 * * *
 
 
@@ -23,3 +25,9 @@ Cette version de l'application Malaria Dashboard est installable comme module ad
 Cette version de l'application Malaria Dashboard est installable sur des terminaux mobiles Android ou IOS permettant une connexion à l'application DHIS2 du pays pour telecharger et rendre disponible hors-ligne les données sur le paludisme de la structure sanitaire concernée afin de permettre une analys et la prise de décisions sans la nécessité d'une connexion Internet.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YifPLQ1qNCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+* * *
+
+
+Accueil | [Apropos](./about.md) | [Specifications](./specs.md) | [Guides](./userguide.md)

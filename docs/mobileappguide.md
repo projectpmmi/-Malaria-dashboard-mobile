@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Home](./index.md) | [About](./about.md) | [specifications](./specs.md) | guide
+[Acueil](./index.md) | [Apropos](./about.md) | [Specifications](./specs.md) | Guides
 
 # Démarrer avec l'application Malaria Dashboard applcation
 
