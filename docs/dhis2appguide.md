@@ -3,6 +3,11 @@ layout: default
 ---
 [Accueil](./index.md) | [Apropos](./about.md) | [Specifications](./specs.md) | [Guides](./userguide.md)
 
+
+# Guide d'installation de l'application Malaria Dashboard
+L'application Malaria dashboard est installable sur une instance de DHIS2. Pour en savoir plus visitez le site de DHIS2 [ici](https://docs.dhis2.org/fr/use/user-guides/dhis-core-version-238/maintaining-the-system/installing-applications.html)
+
+
 # Démarrer avec l'application Malaria Dashboard
 
 ## 1.	Accès à Malaria Dashboard

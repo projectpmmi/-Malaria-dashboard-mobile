@@ -7,7 +7,8 @@ Accueil | [Apropos](./about.md) | [Specifications](./specs.md) | [Guides](./user
 
 # Qu'est-ce que l'application Malaria Dashboard?
 
-L'application Malaria Dashboard est une application logicielle développé par le projet PMI MEASURE Malaria dans le but de faciliter l'analyse et l'utilisation des données sur le Paludisme dans les pays endémiques à cette maladie.
+L'application Malaria Dashboard est une application logicielle développé par le projet PMI MEASURE Malaria dans le but de fournir un tableau de bord mobile convivial au niveau périphérique visant à améliorer la capacité des agents de santé à analyser et à utiliser les données pour la prise de décision.
+
 Cette application se preesente en deux versions:
 
 ## Une version web qui se presente sous forme d'application DHIS2 pour le niveau central

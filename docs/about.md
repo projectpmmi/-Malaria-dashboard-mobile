@@ -5,19 +5,18 @@ layout: default
 
 
 
-# About PMI Measure Malaria
+# À propos de PMI Measure Malaria
+ 
+Le projet PMI Measure Malaria, un projet de cinq ans avec un plafond de 35,9 millions de dollars, est financé par l'Initiative présidentielle américaine contre le paludisme (PMI) et l'Agence des États-Unis pour le développement international (USAID) de juin 2019 à juin 2024.
+ 
+L'Université de Caroline du Nord à Chapel Hill (UNC), par l'intermédiaire du Carolina Population Center (CPC), abrite le projet PMI Measure Malaria. Une équipe d'UNC et d'ICF Macro, Inc. (ICF) dirige cet effort, aidée par des experts techniques de notre consortium de cinq partenaires (UNC ; ICF ; John Snow, Inc. (JSI) ; Palladium International, LLC ; et Tulane University) .
+ 
+Le développement de l'application MRDQA DHIS2 et Mobile est dirigé par une équipe JSI basée à Washington DC et Abidjan en Côte d'Ivoire.
+ 
+## L'équipe de développement logiciel est composée de :
 
-The PMI Measure Malaria project, a five-year project with a ceiling of $35.9 million, is funded by the U.S. President’s Malaria Initiative (PMI) and the United States Agency for International Development (USAID) from June 2019 to June 2024.
 
-The University of North Carolina at Chapel Hill (UNC) through the Carolina Population Center (CPC), houses the award for PMI Measure Malaria. A team from UNC and ICF Macro, Inc. (ICF) leads this effort, aided by technical experts in our consortium of five partners (UNC; ICF; John Snow, Inc. [JSI]; Palladium International, LLC; and Tulane University).
-
-The development of the MRDQA DHIS2 and Mobile app is lead by a JSI team based in Washington D.C. and Dakar, Senegal.
-
-## The software development team is composed of:
-
-* **Michael Mwebaze**
-* **Diao Diallo**
-* **David Boone**
 * **Romain-Rolland Tohouri**
-* **Alpha Nsaghurwe**
-* **Christina Villella**
+* **Abel N'zi**
+* **Moussa Ly**
+* **David Boone**
