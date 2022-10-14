@@ -5,6 +5,11 @@ Accueil | [Apropos](./about.md) | [Specifications](./specs.md) | [Guides](./user
 
 
 
+* * * 
+# Malaria Dashboard app à été classé 3eme a la Compétition dea apps Web et Androids à la conférence annuelle DHIS2 de 2021
+* * *
+
+
 # Qu'est-ce que l'application Malaria Dashboard?
 
 L'application Malaria Dashboard est une application logicielle développé par le projet PMI MEASURE Malaria dans le but de fournir un tableau de bord mobile convivial au niveau périphérique visant à améliorer la capacité des agents de santé à analyser et à utiliser les données pour la prise de décision.
