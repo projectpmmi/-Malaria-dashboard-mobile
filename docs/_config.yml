@@ -1,6 +1,7 @@
 title: Application Malaria Dashboard
 logo: /assets/img/dashboard_logo.png
 ownerlogo: /assets/img/pmi_logo.png
+qr: /malaria_dashboard_qrc.png
 description: Bienvenu sur le site de l'application Malaria Dashboard.
 show_downloads: true
 google_analytics:
