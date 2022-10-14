@@ -6,7 +6,7 @@ Accueil | [Apropos](./about.md) | [Specifications](./specs.md) | [Guides](./user
 
 
 * * * 
-# Classé 3eme à la Compétition des apps Web et Android à la conférence annuelle DHIS2 de 2021.
+# [Classé 3eme à la Compétition des apps Web et Android à la conférence annuelle DHIS2 de 2021](https://www.youtube.com/watch?v=w4NLMA2Serg&list=PLo6Seh-066Ry07Eicb2QhE3B5URWZPbb2&index=37)
 * * *
 
 
