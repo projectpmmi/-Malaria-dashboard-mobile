@@ -23,10 +23,6 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.ownerlogo %}
-          <img src="{{site.ownerlogo | relative_url}}" alt="Organization Logo" />
-        {% endif %}
-
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
@@ -40,7 +36,7 @@
         <ul class="downloads">
           <li><a href="https://play.google.com/store/apps/details?id=com.malaria.dashboard">View On<strong>App Store</strong></a></li>
         </ul>
-        <img src="{{site.qr | relative_url}}" alt="Logo" />
+        <img src="{{site.qr | relative_url}}" alt="Logo" height="50"/>
         {% endif %}
 
         {% if site.github.is_user_page %}
@@ -53,6 +49,11 @@
 
       </section>
       <footer>
+
+        {% if site.ownerlogo %}
+          <img src="{{site.ownerlogo | relative_url}}" alt="Organization Logo" height="50" />
+        {% endif %}
+
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
